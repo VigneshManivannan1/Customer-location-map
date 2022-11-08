@@ -1,6 +1,6 @@
 # CustomerLocation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8. This project will take the customer concern on location then it will map with longitude and latitude
 
 ## Development server
 
